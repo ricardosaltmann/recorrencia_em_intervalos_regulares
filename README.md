@@ -1,0 +1,1 @@
+# recorrencia_em_intervalos_regulares
